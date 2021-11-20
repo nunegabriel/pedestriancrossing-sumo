@@ -7,7 +7,9 @@ The scenario consists of a single road which is crossed by a footpath. The cross
 You'd need to execute the python script runner.py
 This would open your sumo simulator.
 ![sumo](https://user-images.githubusercontent.com/42734825/142742740-17d62d81-670f-48ab-baaa-4b8f30d41153.png)
-Press Start to start the run the simulation.
+
+##Press Start to start the run the simulation.
+
 ![sumo3](https://user-images.githubusercontent.com/42734825/142742829-8b5c0577-7438-4217-93af-8c8138fdf27d.png)
 
 If you the python script returns the error "please declare environment variable 'SUMO_HOME'",
