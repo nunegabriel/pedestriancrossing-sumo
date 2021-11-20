@@ -12,5 +12,5 @@ This would open your sumo simulator.
 
 ![sumo3](https://user-images.githubusercontent.com/42734825/142742829-8b5c0577-7438-4217-93af-8c8138fdf27d.png)
 
-If you the python script returns the error "please declare environment variable 'SUMO_HOME'",
+If the python script returns the error "please declare environment variable 'SUMO_HOME'",
 Run the code SUMO_HOME=/thepathofyour sumo, example export SUMO_HOME=/usr/share/sumo/. Please note that the code above is for linux environment. Declaring environment variable for window swould be different.
